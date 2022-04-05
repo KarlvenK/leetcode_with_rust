@@ -1,9 +1,7 @@
-use std::process::id;
-
-pub struct Solution{}
+pub struct Solution {}
 
 impl Solution {
-    pub fn combination_sum(candidates: Vec<i32>, target: i32) -> Vec<Vec<i32>>{
+    pub fn combination_sum(candidates: Vec<i32>, target: i32) -> Vec<Vec<i32>> {
         let mut nums = candidates;
         let mut res: Vec<Vec<i32>> = Vec::new();
         nums.sort_unstable_by(|a, b| b.cmp(a));
@@ -14,13 +12,7 @@ impl Solution {
         res
     }
 
-    fn dfs(
-        nums: &Vec<i32>,
-        target: i32,
-        curr: &mut Vec<i32>,
-        res: &mut Vec<Vec<i32>>,
-        idx: usize,
-    ) {
+    fn dfs(nums: &Vec<i32>, target: i32, curr: &mut Vec<i32>, res: &mut Vec<Vec<i32>>, idx: usize) {
         if idx >= nums.len() {
             return;
         }
@@ -49,7 +41,7 @@ mod tests {
         );
         assert_eq!(
             Solution::combination_sum(vec![2, 3, 6, 7], 7),
-            vec![vec![3, 2, 2],vec![7]]
+            vec![vec![3, 2, 2], vec![7]]
         );
         assert_eq!(
             Solution::combination_sum(vec![2, 3, 5], 8),

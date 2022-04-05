@@ -1,7 +1,7 @@
 pub struct Solution {}
 
 impl Solution {
-    pub fn restore_array(adjacent_pairs: Vec<Vec<i32>>) -> Vec<i32>{
+    pub fn restore_array(adjacent_pairs: Vec<Vec<i32>>) -> Vec<i32> {
         use std::collections::HashMap;
         let mut map: HashMap<i32, Vec<i32>> = HashMap::new();
         let n = adjacent_pairs.len() + 1;
@@ -25,7 +25,7 @@ impl Solution {
         for i in 2..n {
             let pre = ans[i - 1];
             let adjs = map.get(&pre).unwrap();
-            ans[i] = if ans[i-2] == *adjs.get(0).unwrap() {
+            ans[i] = if ans[i - 2] == *adjs.get(0).unwrap() {
                 *adjs.get(1).unwrap()
             } else {
                 *adjs.get(0).unwrap()
@@ -42,8 +42,8 @@ mod tests {
     #[test]
     fn test_1743() {
         assert_eq!(
-            Solution::restore_array(vec![vec![2,1], vec![3, 4], vec![3,2]]),
-            vec![1,2,3,4]
+            Solution::restore_array(vec![vec![2, 1], vec![3, 4], vec![3, 2]]),
+            vec![1, 2, 3, 4]
         );
     }
 }

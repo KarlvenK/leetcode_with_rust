@@ -1,4 +1,4 @@
-pub struct Solution{}
+pub struct Solution {}
 
 use crate::utils::linked_list::{to_list, ListNode};
 
