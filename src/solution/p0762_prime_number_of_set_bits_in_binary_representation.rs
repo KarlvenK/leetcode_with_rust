@@ -58,7 +58,7 @@ mod tests {
     use rand::Rng;
     #[test]
     fn test_762() {
-        for i in 0..20 {
+        for _ in 0..20 {
             let (mut left, mut right) = (
                 rand::thread_rng().gen_range(0..100000),
                 rand::thread_rng().gen_range(0..100000),
