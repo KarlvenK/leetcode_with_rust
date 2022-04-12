@@ -10,4 +10,5 @@ mod p0762_prime_number_of_set_bits_in_binary_representation;
 mod p0780_reaching_points;
 mod p0796_rotate_string;
 mod p0804_unique_morse_code_words;
+mod p0806_number_of_lines_to_write_string;
 mod p1743_restore_the_array_from_adjacent_pairs;
