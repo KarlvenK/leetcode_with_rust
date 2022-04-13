@@ -6,6 +6,7 @@ mod p0023_merge_k_sorted_lists;
 mod p0039_combination_sum;
 mod p0310_minimum_height_trees;
 mod p0357_count_numbers_with_unique_digits;
+mod p0380_insert_delete_getrandom_01;
 mod p0762_prime_number_of_set_bits_in_binary_representation;
 mod p0780_reaching_points;
 mod p0796_rotate_string;
