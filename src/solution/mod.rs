@@ -2,6 +2,7 @@ mod offer42;
 mod p0001_two_sum;
 mod p0002_add_two_numbers;
 mod p0003_longest_substring_without_repeating_characters;
+mod p0022_generate_parentheses;
 mod p0023_merge_k_sorted_lists;
 mod p0039_combination_sum;
 mod p0310_minimum_height_trees;
