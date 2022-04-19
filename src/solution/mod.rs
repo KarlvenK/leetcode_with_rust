@@ -16,5 +16,6 @@ mod p0796_rotate_string;
 mod p0804_unique_morse_code_words;
 mod p0806_number_of_lines_to_write_string;
 mod p0819_most_common_word;
+mod p0821_short_distance_to_a_character;
 mod p1672_richest_customer_wealth;
 mod p1743_restore_the_array_from_adjacent_pairs;
