@@ -5,6 +5,7 @@ mod p0003_longest_substring_without_repeating_characters;
 mod p0015_3sum;
 mod p0022_generate_parentheses;
 mod p0023_merge_k_sorted_lists;
+mod p0027_remove_element;
 mod p0039_combination_sum;
 mod p0310_minimum_height_trees;
 mod p0357_count_numbers_with_unique_digits;
