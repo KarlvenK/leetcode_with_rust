@@ -13,6 +13,7 @@ mod p0380_insert_delete_getrandom_01;
 mod p0386_lexicographical_numbers;
 mod p0388_longest_absolute_file_path;
 mod p0396_rotate_function;
+mod p0398_random_pick_index;
 mod p0762_prime_number_of_set_bits_in_binary_representation;
 mod p0780_reaching_points;
 mod p0796_rotate_string;
