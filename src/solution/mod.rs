@@ -22,5 +22,6 @@ mod p0806_number_of_lines_to_write_string;
 mod p0819_most_common_word;
 mod p0821_short_distance_to_a_character;
 mod p0824_goat_latin;
+mod p0883_projection_area_3d_shapes;
 mod p1672_richest_customer_wealth;
 mod p1743_restore_the_array_from_adjacent_pairs;
