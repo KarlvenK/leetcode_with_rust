@@ -25,5 +25,6 @@ mod p0821_short_distance_to_a_character;
 mod p0824_goat_latin;
 mod p0883_projection_area_3d_shapes;
 mod p0905_sort_array_by_parity;
+mod p0908_smallest_range_i;
 mod p1672_richest_customer_wealth;
 mod p1743_restore_the_array_from_adjacent_pairs;
