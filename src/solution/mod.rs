@@ -26,5 +26,6 @@ mod p0824_goat_latin;
 mod p0883_projection_area_3d_shapes;
 mod p0905_sort_array_by_parity;
 mod p0908_smallest_range_i;
+mod p1305_all_elements_in_two_binary_search_trees;
 mod p1672_richest_customer_wealth;
 mod p1743_restore_the_array_from_adjacent_pairs;
