@@ -30,3 +30,4 @@ mod p0937_reorder_data_in_log_files;
 mod p1305_all_elements_in_two_binary_search_trees;
 mod p1672_richest_customer_wealth;
 mod p1743_restore_the_array_from_adjacent_pairs;
+mod p1823_find_the_winner_of_circular_game;
