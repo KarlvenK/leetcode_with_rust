@@ -27,6 +27,7 @@ mod p0824_goat_latin;
 mod p0883_projection_area_3d_shapes;
 mod p0905_sort_array_by_parity;
 mod p0908_smallest_range_i;
+mod p0933_number_of_recent_calls;
 mod p0937_reorder_data_in_log_files;
 mod p1305_all_elements_in_two_binary_search_trees;
 mod p1672_richest_customer_wealth;
