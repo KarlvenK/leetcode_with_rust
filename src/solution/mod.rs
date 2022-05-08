@@ -8,6 +8,7 @@ mod p0023_merge_k_sorted_lists;
 mod p0027_remove_element;
 mod p0039_combination_sum;
 mod p0310_minimum_height_trees;
+mod p0341_flatten_nested_list_iterator;
 mod p0357_count_numbers_with_unique_digits;
 mod p0380_insert_delete_getrandom_01;
 mod p0386_lexicographical_numbers;
