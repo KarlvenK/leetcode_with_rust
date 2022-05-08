@@ -32,6 +32,7 @@ mod p0905_sort_array_by_parity;
 mod p0908_smallest_range_i;
 mod p0933_number_of_recent_calls;
 mod p0937_reorder_data_in_log_files;
+mod p0942_di_string_match;
 mod p1305_all_elements_in_two_binary_search_trees;
 mod p1672_richest_customer_wealth;
 mod p1743_restore_the_array_from_adjacent_pairs;
