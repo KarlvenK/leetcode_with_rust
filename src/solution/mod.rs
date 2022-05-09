@@ -3,6 +3,7 @@ mod p0001_two_sum;
 mod p0002_add_two_numbers;
 mod p0003_longest_substring_without_repeating_characters;
 mod p0015_3sum;
+mod p0017_letter_combinations_of_a_phone_number;
 mod p0022_generate_parentheses;
 mod p0023_merge_k_sorted_lists;
 mod p0027_remove_element;
