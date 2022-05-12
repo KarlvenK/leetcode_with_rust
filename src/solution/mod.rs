@@ -8,6 +8,7 @@ mod p0022_generate_parentheses;
 mod p0023_merge_k_sorted_lists;
 mod p0027_remove_element;
 mod p0039_combination_sum;
+mod p0047_permutations_ii;
 mod p0216_combination_sum_iii;
 mod p0310_minimum_height_trees;
 mod p0341_flatten_nested_list_iterator;
