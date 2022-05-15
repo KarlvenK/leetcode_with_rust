@@ -38,6 +38,7 @@ mod p0933_number_of_recent_calls;
 mod p0937_reorder_data_in_log_files;
 mod p0942_di_string_match;
 mod p0944_delete_columns_to_make_sorted;
+mod p1302_deepest_leaves_sum;
 mod p1305_all_elements_in_two_binary_search_trees;
 mod p1641_count_sorted_vowel_strings;
 mod p1672_richest_customer_wealth;
