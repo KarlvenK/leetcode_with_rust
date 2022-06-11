@@ -45,6 +45,7 @@ mod p0944_delete_columns_to_make_sorted;
 mod p1302_deepest_leaves_sum;
 mod p1305_all_elements_in_two_binary_search_trees;
 mod p1641_count_sorted_vowel_strings;
+mod p1658_minimum_operations_to_reduce_x_to_zero;
 mod p1672_richest_customer_wealth;
 mod p1743_restore_the_array_from_adjacent_pairs;
 mod p1823_find_the_winner_of_circular_game;
