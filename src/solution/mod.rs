@@ -36,6 +36,7 @@ mod p0829_consecutive_numbers_sum;
 mod p0883_projection_area_3d_shapes;
 mod p0905_sort_array_by_parity;
 mod p0908_smallest_range_i;
+mod p0926_flip_string_to_monotone_increasing;
 mod p0929_unique_emial_addresses;
 mod p0933_number_of_recent_calls;
 mod p0937_reorder_data_in_log_files;
