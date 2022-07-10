@@ -22,6 +22,7 @@ mod p0398_random_pick_index;
 mod p0417_pacific_atlantic_water_flow;
 mod p0433_minimum_genetic_mutation;
 mod p0442_find_all_duplicates_in_an_array;
+mod p0509_fibonacci_number;
 mod p0691_stickers_to_spell_words;
 mod p0713_subarray_product_less_than_k;
 mod p0762_prime_number_of_set_bits_in_binary_representation;
