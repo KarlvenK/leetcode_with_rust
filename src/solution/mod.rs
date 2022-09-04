@@ -46,6 +46,7 @@ mod p0944_delete_columns_to_make_sorted;
 mod p0967_number_with_same_consecutive_differences;
 mod p1302_deepest_leaves_sum;
 mod p1305_all_elements_in_two_binary_search_trees;
+mod p1582_special_position_in_a_binary_matrix;
 mod p1641_count_sorted_vowel_strings;
 mod p1658_minimum_operations_to_reduce_x_to_zero;
 mod p1672_richest_customer_wealth;
