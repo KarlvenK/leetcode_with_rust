@@ -36,6 +36,7 @@ mod p0821_short_distance_to_a_character;
 mod p0824_goat_latin;
 mod p0829_consecutive_numbers_sum;
 mod p0883_projection_area_3d_shapes;
+mod p0886_possible_bipartition;
 mod p0905_sort_array_by_parity;
 mod p0908_smallest_range_i;
 mod p0926_flip_string_to_monotone_increasing;
