@@ -10,6 +10,7 @@ mod p0023_merge_k_sorted_lists;
 mod p0027_remove_element;
 mod p0039_combination_sum;
 mod p0047_permutations_ii;
+mod p0076_minimum_window_substring;
 mod p0216_combination_sum_iii;
 mod p0304_range_sum_query_2d_immutable;
 mod p0310_minimum_height_trees;
