@@ -49,6 +49,7 @@ mod p0942_di_string_match;
 mod p0944_delete_columns_to_make_sorted;
 mod p0967_number_with_same_consecutive_differences;
 mod p0981_time_based_key_value_store;
+mod p1235_maximum_profit_in_job_scheduling;
 mod p1302_deepest_leaves_sum;
 mod p1305_all_elements_in_two_binary_search_trees;
 mod p1582_special_position_in_a_binary_matrix;
