@@ -59,6 +59,7 @@ mod p1641_count_sorted_vowel_strings;
 mod p1658_minimum_operations_to_reduce_x_to_zero;
 mod p1668_maximum_repeating_substring;
 mod p1672_richest_customer_wealth;
+mod p1678_goal_parser_interpretation;
 mod p1743_restore_the_array_from_adjacent_pairs;
 mod p1768_merge_strings_alternately;
 mod p1823_find_the_winner_of_circular_game;
