@@ -57,6 +57,7 @@ mod p1305_all_elements_in_two_binary_search_trees;
 mod p1582_special_position_in_a_binary_matrix;
 mod p1641_count_sorted_vowel_strings;
 mod p1658_minimum_operations_to_reduce_x_to_zero;
+mod p1668_maximum_repeating_substring;
 mod p1672_richest_customer_wealth;
 mod p1743_restore_the_array_from_adjacent_pairs;
 mod p1768_merge_strings_alternately;
