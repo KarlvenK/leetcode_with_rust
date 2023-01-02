@@ -26,6 +26,7 @@ mod p0417_pacific_atlantic_water_flow;
 mod p0433_minimum_genetic_mutation;
 mod p0442_find_all_duplicates_in_an_array;
 mod p0509_fibonacci_number;
+mod p0520_detect_capital;
 mod p0645_set_mismatch;
 mod p0691_stickers_to_spell_words;
 mod p0713_subarray_product_less_than_k;
