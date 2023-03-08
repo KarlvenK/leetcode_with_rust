@@ -64,3 +64,4 @@ mod p1678_goal_parser_interpretation;
 mod p1743_restore_the_array_from_adjacent_pairs;
 mod p1768_merge_strings_alternately;
 mod p1823_find_the_winner_of_circular_game;
+mod p2379_minimum_recolors_to_get_k_consecutive_black_blocks;
