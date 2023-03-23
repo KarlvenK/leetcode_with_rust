@@ -13,6 +13,7 @@ mod p0047_permutations_ii;
 mod p0049_group_anagrams;
 mod p0076_minimum_window_substring;
 mod p0109_convert_sorted_list_to_bst;
+mod p0211_design_add_and_search_words_data_structure;
 mod p0216_combination_sum_iii;
 mod p0304_range_sum_query_2d_immutable;
 mod p0310_minimum_height_trees;
