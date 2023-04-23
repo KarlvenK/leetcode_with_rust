@@ -53,6 +53,7 @@ mod p0942_di_string_match;
 mod p0944_delete_columns_to_make_sorted;
 mod p0967_number_with_same_consecutive_differences;
 mod p0981_time_based_key_value_store;
+mod p1105_filling_bookcase_shelves;
 mod p1106_parsing_a_boolean_expression;
 mod p1235_maximum_profit_in_job_scheduling;
 mod p1302_deepest_leaves_sum;
