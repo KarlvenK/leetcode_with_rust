@@ -70,4 +70,5 @@ mod p1768_merge_strings_alternately;
 mod p1823_find_the_winner_of_circular_game;
 mod p2379_minimum_recolors_to_get_k_consecutive_black_blocks;
 mod p2383_minimum_hours_of_training_to_win_a_competition;
+mod p2423_remove_letter_to_equalize_frequency;
 mod pi1705_find_longest_subarray_lcci;
