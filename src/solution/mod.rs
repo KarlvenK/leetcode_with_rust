@@ -60,6 +60,7 @@ mod p1235_maximum_profit_in_job_scheduling;
 mod p1302_deepest_leaves_sum;
 mod p1305_all_elements_in_two_binary_search_trees;
 mod p1319_number_of_operations_to_make_network_connected;
+mod p1375_number_of_times_binary_string_is_prefix_aligned;
 mod p1582_special_position_in_a_binary_matrix;
 mod p1641_count_sorted_vowel_strings;
 mod p1658_minimum_operations_to_reduce_x_to_zero;
