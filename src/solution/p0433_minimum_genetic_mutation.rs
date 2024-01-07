@@ -1,4 +1,3 @@
-use std::cmp::min;
 use std::collections::{HashMap, VecDeque};
 pub struct Solution {}
 
@@ -73,6 +72,7 @@ impl Solution {
     }
 }
 
+#[cfg(test)]
 mod tests {
     use super::*;
 

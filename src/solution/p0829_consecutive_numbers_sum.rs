@@ -39,7 +39,7 @@ impl Solution {
         return n % k != 0 && 2 * n % k == 0;
     }
 }
-
+#[cfg(test)]
 mod tests {
     use super::*;
     #[test]

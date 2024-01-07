@@ -1,5 +1,5 @@
 pub struct Solution {}
-use crate::utils::linked_list::{to_list, ListNode};
+use crate::utils::linked_list::ListNode;
 
 // Definition for singly-linked list.
 // #[derive(PartialEq, Eq, Clone, Debug)]
@@ -71,6 +71,7 @@ impl Solution {
 #[cfg(test)]
 mod tests {
     use super::*;
+    use crate::utils::linked_list::to_list;
 
     #[test]
     fn test_2() {

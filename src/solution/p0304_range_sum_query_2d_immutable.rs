@@ -39,6 +39,7 @@ impl NumMatrix {
  * let ret_1: i32 = obj.sum_region(row1, col1, row2, col2);
  */
 
+#[cfg(test)]
 mod tests {
     use super::*;
 

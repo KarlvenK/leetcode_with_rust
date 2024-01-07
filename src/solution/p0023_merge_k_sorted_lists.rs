@@ -1,8 +1,8 @@
 pub struct Solution {}
 
-use crate::utils::linked_list::{to_list, ListNode};
+use crate::utils::linked_list::ListNode;
 
-use std::cmp::{Ord, Ordering, PartialEq};
+use std::cmp::{Ord, Ordering};
 use std::collections::BinaryHeap;
 
 impl PartialOrd<Self> for ListNode {
@@ -46,6 +46,7 @@ impl Solution {
 #[cfg(test)]
 mod tests {
     use super::*;
+    use crate::utils::linked_list::to_list;
     #[test]
     fn test_23() {
         assert_eq!(
