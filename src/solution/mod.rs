@@ -28,6 +28,7 @@ mod p0398_random_pick_index;
 mod p0417_pacific_atlantic_water_flow;
 mod p0433_minimum_genetic_mutation;
 mod p0442_find_all_duplicates_in_an_array;
+mod p0447_number_of_boomerangs;
 mod p0509_fibonacci_number;
 mod p0520_detect_capital;
 mod p0645_set_mismatch;
