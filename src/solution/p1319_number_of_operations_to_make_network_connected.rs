@@ -6,11 +6,11 @@ impl Solution {
             return -1;
         }
         let mut graph = Vec::new();
-        for i in 0..n as usize {
+        for _i in 0..n as usize {
             graph.push(Vec::new());
         }
         let mut vis = Vec::new();
-        for i in 0..n as usize {
+        for _i in 0..n as usize {
             vis.push(false);
         }
         for edge in connections {

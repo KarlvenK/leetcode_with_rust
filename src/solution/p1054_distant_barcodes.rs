@@ -39,7 +39,7 @@ impl Solution {
 
         let mut ans = vec![];
 
-        for i in 0..barcodes.len() {
+        for _i in 0..barcodes.len() {
             let mut x = heap.pop().unwrap();
             if !ans.is_empty() && x.val == ans[ans.len() - 1] {
                 let temp = x;

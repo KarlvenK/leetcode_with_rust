@@ -53,7 +53,7 @@ impl RandomizedSet {
 
     fn get_random(&self) -> i32 {
         let mut rng = rand::thread_rng();
-        let mut pos: usize = rng.gen_range(0..self.nums.len());
+        let pos: usize = rng.gen_range(0..self.nums.len());
         // pos = pos % self.nums.len();
         self.nums[pos]
     }
@@ -78,7 +78,7 @@ mod tests {
         assert_eq!(ret_1, true);
         let ret_2 = obj.remove(1);
         assert_eq!(ret_2, true);
-        let ret_3 = obj.insert(100000);
+        let _ret_3 = obj.insert(100000);
         let ret_4 = obj.get_random();
         assert_eq!(ret_4, 100000);
     }

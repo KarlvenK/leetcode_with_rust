@@ -6,7 +6,7 @@ impl Solution {
     pub fn max_rotate_function(nums: Vec<i32>) -> i32 {
         let sum: i32 = nums.iter().sum();
         let mut pre = 0;
-        let mut ans = 0;
+        let mut ans;
         let n = nums.len();
 
         for i in 0..n {

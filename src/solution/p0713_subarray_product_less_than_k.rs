@@ -1,8 +1,8 @@
 pub struct Solution {}
 
 impl Solution {
-    pub fn num_subarray_product_less_than_k(mut nums: Vec<i32>, k: i32) -> i32 {
-        let n = nums.len();
+    pub fn num_subarray_product_less_than_k(nums: Vec<i32>, k: i32) -> i32 {
+        let _n = nums.len();
         let mut ans = 0;
         let mut product = 1;
         let mut i = 0;

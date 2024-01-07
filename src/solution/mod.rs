@@ -1,3 +1,4 @@
+#![allow(dead_code)]
 mod offer42;
 mod p0001_two_sum;
 mod p0002_add_two_numbers;
@@ -70,8 +71,8 @@ mod p1678_goal_parser_interpretation;
 mod p1743_restore_the_array_from_adjacent_pairs;
 mod p1768_merge_strings_alternately;
 mod p1823_find_the_winner_of_circular_game;
+mod p1944_number_of_visible_people_in_a_queue;
 mod p2379_minimum_recolors_to_get_k_consecutive_black_blocks;
 mod p2383_minimum_hours_of_training_to_win_a_competition;
 mod p2423_remove_letter_to_equalize_frequency;
 mod pi1705_find_longest_subarray_lcci;
-mod p1944_number_of_visible_people_in_a_queue;

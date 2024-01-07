@@ -27,7 +27,7 @@ impl Solution {
         root2: Option<Rc<RefCell<TreeNode>>>,
     ) -> Vec<i32> {
         fn inorder(node: Option<Rc<RefCell<TreeNode>>>, ans: &mut Vec<i32>) {
-            if let Some(mut new_node) = node {
+            if let Some(new_node) = node {
                 inorder(new_node.borrow_mut().left.take(), ans);
                 ans.push(new_node.borrow().val);
                 inorder(new_node.borrow_mut().right.take(), ans);

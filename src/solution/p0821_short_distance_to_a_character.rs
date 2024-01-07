@@ -29,6 +29,7 @@ impl Solution {
         }
 
         let mut i = n - 1;
+        #[allow(unused_comparisons)]
         while i >= 0 {
             if (s.as_bytes()[i] as char) == c {
                 right[i] = i;
@@ -66,6 +67,6 @@ mod tests {
             Solution::shortest_to_char("loveleetcode".to_string(), 'e'),
             vec![3, 2, 1, 0, 1, 0, 0, 1, 2, 2, 1, 0]
         );
-        let mut s = "test".to_string();
+        // let s = "test".to_string();
     }
 }

@@ -6,7 +6,7 @@ impl Solution {
     pub fn min_window(s: String, t: String) -> String {
         let mut t_cnt = HashMap::new();
         let mut s_cnt = HashMap::new();
-        let mut ans = "";
+        let _ans = "";
         let mut temp = 1234567890;
         let mut oks = 0;
         let (mut start, mut end) = (0, 0);

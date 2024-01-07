@@ -14,7 +14,7 @@ impl Solution {
                 }
                 return;
             }
-            let mut start: i32;
+            let start: i32;
             match temp.last() {
                 Some(&x) => {
                     start = x + 1;

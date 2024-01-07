@@ -15,10 +15,10 @@ struct Solution {
  */
 impl Solution {
     fn new(nums: Vec<i32>) -> Self {
-        let mut rng = rand::thread_rng();
+        let rng = rand::thread_rng();
         let mut map = HashMap::new();
         for (i, &v) in nums.iter().enumerate() {
-            let mut eny = map.entry(v).or_insert(vec![]);
+            let eny = map.entry(v).or_insert(vec![]);
             eny.push(i);
         }
         Solution { nums, map, rng }

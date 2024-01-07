@@ -1,7 +1,7 @@
 pub struct Solution {}
 impl Solution {
     pub fn num_special(mat: Vec<Vec<i32>>) -> i32 {
-        let mut matrix = mat;
+        let matrix = mat;
         let row_num = matrix.len();
         let column_num = matrix[0].len();
         let mut row_cnt = vec![0; row_num];

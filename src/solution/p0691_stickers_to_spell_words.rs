@@ -59,7 +59,7 @@ mod tests {
 
     #[test]
     fn test_691() {
-        let mut a = vec!["with", "example", "science"];
+        let a = vec!["with", "example", "science"];
         let a: Vec<String> = a.iter().map(|&x| x.to_string()).collect();
         assert_eq!(Solution::min_stickers(a, "thehat".to_string()), 3);
     }
