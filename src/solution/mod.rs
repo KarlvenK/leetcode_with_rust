@@ -76,4 +76,5 @@ mod p1944_number_of_visible_people_in_a_queue;
 mod p2379_minimum_recolors_to_get_k_consecutive_black_blocks;
 mod p2383_minimum_hours_of_training_to_win_a_competition;
 mod p2423_remove_letter_to_equalize_frequency;
+mod p2808_minimum_seconds_to_equalize_a_circular_array;
 mod pi1705_find_longest_subarray_lcci;
