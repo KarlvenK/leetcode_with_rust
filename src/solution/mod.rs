@@ -56,6 +56,7 @@ mod p0942_di_string_match;
 mod p0944_delete_columns_to_make_sorted;
 mod p0967_number_with_same_consecutive_differences;
 mod p0981_time_based_key_value_store;
+mod p1044_longest_duplicate_substring;
 mod p1054_distant_barcodes;
 mod p1105_filling_bookcase_shelves;
 mod p1106_parsing_a_boolean_expression;
