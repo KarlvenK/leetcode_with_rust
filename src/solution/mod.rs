@@ -80,4 +80,5 @@ mod p2379_minimum_recolors_to_get_k_consecutive_black_blocks;
 mod p2383_minimum_hours_of_training_to_win_a_competition;
 mod p2423_remove_letter_to_equalize_frequency;
 mod p2808_minimum_seconds_to_equalize_a_circular_array;
+mod p2908_minimum_sum_of_mountain_triplets_i;
 mod pi1705_find_longest_subarray_lcci;
