@@ -85,5 +85,6 @@ mod p2423_remove_letter_to_equalize_frequency;
 mod p2529_maximum_count_of_positive_and_negative_integer;
 mod p2808_minimum_seconds_to_equalize_a_circular_array;
 mod p2908_minimum_sum_of_mountain_triplets_i;
+mod p2923_find_champion_i;
 mod p2952_minimum_number_of_coins_to_be_added;
 mod pi1705_find_longest_subarray_lcci;
