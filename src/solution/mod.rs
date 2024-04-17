@@ -50,6 +50,7 @@ mod p0886_possible_bipartition;
 mod p0894_all_possible_full_binary_trees;
 mod p0905_sort_array_by_parity;
 mod p0908_smallest_range_i;
+mod p0924_minimize_malware_spread;
 mod p0926_flip_string_to_monotone_increasing;
 mod p0929_unique_emial_addresses;
 mod p0933_number_of_recent_calls;
