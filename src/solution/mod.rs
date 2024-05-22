@@ -91,4 +91,5 @@ mod p2908_minimum_sum_of_mountain_triplets_i;
 mod p2923_find_champion_i;
 mod p2924_find_champion_ii;
 mod p2952_minimum_number_of_coins_to_be_added;
+mod p3115_maximum_prime_difference;
 mod pi1705_find_longest_subarray_lcci;
